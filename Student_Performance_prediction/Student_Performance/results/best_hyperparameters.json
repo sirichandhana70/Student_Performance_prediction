@@ -1,0 +1,12 @@
+{
+  "Polynomial Regression": {
+    "model__alpha": 0.1,
+    "poly__degree": 2
+  },
+  "Ridge Regression": {
+    "model__alpha": 0.01
+  },
+  "Lasso Regression": {
+    "model__alpha": 0.001
+  }
+}
